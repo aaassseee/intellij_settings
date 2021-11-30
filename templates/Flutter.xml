@@ -1,0 +1,24 @@
+<templateSet group="Flutter">
+  <template name="bvo" value="abstract class $CLASS_NAME$ implements Built&lt;$CLASS_NAME$, $CLASS_NAME$Builder&gt; {&#10;  $CLASS_NAME$._();&#10;  &#10;  $END$&#10;  &#10;  factory $CLASS_NAME$([void Function($CLASS_NAME$Builder) updates]) = _$$$CLASS_NAME$;&#10;  &#10;  static Serializer&lt;$CLASS_NAME$&gt; get serializer =&gt; _$$$LOWER_CAMEL_CLASS_NAME$Serializer;&#10;&#10;  Map&lt;String, dynamic&gt; toJson() =&gt;&#10;      serializers.serializeWith(serializer, this) as Map&lt;String, dynamic&gt;;&#10;&#10;  static $CLASS_NAME$ fromJson(Map&lt;String, dynamic&gt; json) =&gt;&#10;      serializers.deserializeWith(serializer, json)!;&#10;}" description="Create Built Value object" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LOWER_CAMEL_CLASS_NAME" expression="camelCase(CLASS_NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="svb" value="class $SERVICE_NAME$ServiceRequested extends ServiceRequested {&#10;  const $SERVICE_NAME$ServiceRequested();&#10;}&#10;&#10;class $SERVICE_NAME$ServiceBloc extends ServiceBloc&lt;$SERVICE_NAME$ServiceRequested, $RETURN_TYPE$&gt; {&#10;  final LanguageBloc _languageBloc;&#10;  final UserBloc _userBloc;&#10;&#10;  $SERVICE_NAME$ServiceBloc(&#10;    this._languageBloc,&#10;    this._userBloc,&#10;  );&#10;&#10;  @override&#10;  FutureOr&lt;void&gt; onRequest($SERVICE_NAME$ServiceRequested event, Emitter&lt;ServiceState&gt; emit) async {&#10;    UserState userState = _userBloc.state;&#10;    try {&#10;      $END$&#10;    } catch (error) {&#10;      if (error is DioError &amp;&amp; error.response?.statusCode == 401) {&#10;        if (userState is UserValidatedState) {&#10;          _userBloc.add(UserUpdated(userState.user, isValid: false));&#10;        }&#10;      }&#10;      emit(ServiceLoadFailure(error: error));&#10;    }&#10;  }&#10;}" description="Create service bloc" toReformat="false" toShortenFQNames="true">
+    <variable name="SERVICE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="bve" value="class $CLASS_NAME$ extends EnumClass {&#10;  const $CLASS_NAME$._(String name) : super(name);&#10;  &#10;  static const $CLASS_NAME$ $ENUM$ = _$$$LOWER_CAMEL_CLASS_NAME$$ENUM$;&#10;&#10;  @BuiltValueEnumConst(fallback: true)&#10;  static const $CLASS_NAME$ fallback = _$$$LOWER_CAMEL_CLASS_NAME$Fallback;&#10;&#10;  static BuiltSet&lt;$CLASS_NAME$&gt; get values =&gt; _$$$LOWER_CAMEL_CLASS_NAME$Values;&#10;  &#10;  static Set&lt;$CLASS_NAME$&gt; get nonFallbackValues =&gt; values.toSet()..remove(fallback);&#10;&#10;  static $CLASS_NAME$ valueOf(String name) =&gt; _$$$LOWER_CAMEL_CLASS_NAME$ValueOf(name);&#10;&#10;  static Serializer&lt;$CLASS_NAME$&gt; get serializer =&gt; _$$$LOWER_CAMEL_CLASS_NAME$Serializer;&#10;}" description="Create Built Value enum" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENUM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LOWER_CAMEL_CLASS_NAME" expression="camelCase(CLASS_NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
