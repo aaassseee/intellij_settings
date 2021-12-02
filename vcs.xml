@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/LibertyGlobal/flutter-tvos-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aaassseee/screen_brightness.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/jack/research" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/jack/plugin" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
