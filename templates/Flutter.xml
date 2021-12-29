@@ -13,12 +13,23 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="bve" value="class $CLASS_NAME$ extends EnumClass {&#10;  const $CLASS_NAME$._(String name) : super(name);&#10;  &#10;  static const $CLASS_NAME$ $ENUM$ = _$$$LOWER_CAMEL_CLASS_NAME$$ENUM$;&#10;&#10;  @BuiltValueEnumConst(fallback: true)&#10;  static const $CLASS_NAME$ fallback = _$$$LOWER_CAMEL_CLASS_NAME$Fallback;&#10;&#10;  static BuiltSet&lt;$CLASS_NAME$&gt; get values =&gt; _$$$LOWER_CAMEL_CLASS_NAME$Values;&#10;  &#10;  static Set&lt;$CLASS_NAME$&gt; get nonFallbackValues =&gt; values.toSet()..remove(fallback);&#10;&#10;  static $CLASS_NAME$ valueOf(String name) =&gt; _$$$LOWER_CAMEL_CLASS_NAME$ValueOf(name);&#10;&#10;  static Serializer&lt;$CLASS_NAME$&gt; get serializer =&gt; _$$$LOWER_CAMEL_CLASS_NAME$Serializer;&#10;}" description="Create Built Value enum" toReformat="true" toShortenFQNames="true">
+  <template name="bve" value="class $CLASS_NAME$ extends EnumClass {&#10;  const $CLASS_NAME$._(String name) : super(name);&#10;  &#10;  static const $CLASS_NAME$ $ENUM$ = _$$$LOWER_CAMEL_CLASS_NAME$$CAPITALIZED_ENUM$;&#10;&#10;  @BuiltValueEnumConst(fallback: true)&#10;  static const $CLASS_NAME$ fallback = _$$$LOWER_CAMEL_CLASS_NAME$Fallback;&#10;&#10;  static BuiltSet&lt;$CLASS_NAME$&gt; get values =&gt; _$$$LOWER_CAMEL_CLASS_NAME$Values;&#10;  &#10;  static Set&lt;$CLASS_NAME$&gt; get nonFallbackValues =&gt; values.toSet()..remove(fallback);&#10;&#10;  static $CLASS_NAME$ valueOf(String name) =&gt; _$$$LOWER_CAMEL_CLASS_NAME$ValueOf(name);&#10;&#10;  static Serializer&lt;$CLASS_NAME$&gt; get serializer =&gt; _$$$LOWER_CAMEL_CLASS_NAME$Serializer;&#10;}" description="Create Built Value enum" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ENUM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="LOWER_CAMEL_CLASS_NAME" expression="camelCase(CLASS_NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="CAPITALIZED_ENUM" expression="capitalize(ENUM)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="aloftxt" value="ApplicationLocalizations.of(context).getLocalizedText('$END$')" description="Create ApplicationLocalizations getLocalizedText from build context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="alof" value="ApplicationLocalizations.of(context)" description="Create ApplicationLocalizations from build context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
