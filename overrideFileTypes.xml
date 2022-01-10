@@ -1,5 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Desktop/jack/plugin/checkout_com/checkout_com_frames/lib/l10n/frames_en.arb" value="JSON" />
+    <file url="file://$USER_HOME$/Desktop/jack/plugin/checkout_com/checkout_com_frames/lib/l10n/frames_fr.arb" value="JSON" />
+    <file url="file://$USER_HOME$/Desktop/jack/plugin/checkout_com/checkout_com_frames/lib/l10n/frames_ro.arb" value="JSON" />
   </component>
 </application>
