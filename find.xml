@@ -3,11 +3,13 @@
     <option name="customScope" value="Flutter" />
     <option name="defaultScopeName" value="Flutter" />
     <option name="SEARCH_SCOPE" value="Flutter" />
+    <option name="FILE_MASK" value="*.podspec" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.podspec</mask>
   </component>
 </application>
