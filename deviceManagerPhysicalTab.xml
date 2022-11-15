@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="ZSWOMYWM1W" />
+          </Key>
+        </key>
+        <name value="rockchip rk3288" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9889d546424d42305a" />
           </Key>
         </key>
