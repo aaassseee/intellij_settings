@@ -52,7 +52,7 @@
             <value value="5966cce50604" />
           </Key>
         </key>
-        <name value="Xiaomi Redmi Note 4" />
+        <name value="Device" />
         <target value="Android 7.0" />
         <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
