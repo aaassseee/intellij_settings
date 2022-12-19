@@ -92,6 +92,21 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RunWithDropDown" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <path value="RunToolbarWidgetCustomizableActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunWithDropDown" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar Right" />
+      <path value="RunToolbarWidgetCustomizableActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="RedesignedRunToolbarWrapper" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="WelcomeScreen.Options" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="RunConfiguration" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/general/listFiles.svg" />
+    <action id="RunToolbarWidgetAction" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
