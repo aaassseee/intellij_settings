@@ -6,7 +6,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="svb" value="class $SERVICE_NAME$ServiceRequested extends ServiceRequested {&#10;  const $SERVICE_NAME$ServiceRequested();&#10;  &#10;  @override&#10;  List&lt;Object?&gt; get props =&gt; []&#10;}&#10;&#10;class $SERVICE_NAME$ServiceBloc extends ServiceBloc&lt;$SERVICE_NAME$ServiceRequested, $RETURN_TYPE$&gt; {&#10;  $SERVICE_NAME$ServiceBloc();&#10;&#10;  @override&#10;  FutureOr&lt;void&gt; onRequest($SERVICE_NAME$ServiceRequested event, Emitter&lt;ServiceState&gt; emit) async {&#10;    $END$// TODO: call request&#10;  }&#10;}" description="Create service bloc" toReformat="false" toShortenFQNames="true">
+  <template name="svb" value="class $SERVICE_NAME$ServiceRequested extends ServiceRequested {&#10;  const $SERVICE_NAME$ServiceRequested();&#10;  &#10;  @override&#10;  List&lt;Object?&gt; get props =&gt; [];&#10;}&#10;&#10;class $SERVICE_NAME$ServiceBloc extends ServiceBloc&lt;$SERVICE_NAME$ServiceRequested, $RETURN_TYPE$&gt; {&#10;  $SERVICE_NAME$ServiceBloc();&#10;&#10;  @override&#10;  FutureOr&lt;void&gt; onRequest($SERVICE_NAME$ServiceRequested event, Emitter&lt;ServiceState&gt; emit) async {&#10;    $END$// TODO: call request&#10;  }&#10;}" description="Create service bloc" toReformat="false" toShortenFQNames="true">
     <variable name="SERVICE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
