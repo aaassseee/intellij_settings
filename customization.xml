@@ -172,15 +172,16 @@
       <path value="RunToolbarWidgetCustomizableActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="AttachDebuggerAction" is_action="true" action_type="1" position="1">
+    <group value="Flutter.DeviceSelector" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar Right" />
-      <path value="Flutter.MainToolbarActions" />
+      <path value="RunToolbarWidgetCustomizableActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="RedesignedRunToolbarWrapper" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="RunConfiguration" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/general/listFiles.svg" />
     <action id="WelcomeScreen.Options" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="RunToolbarWidgetAction" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="DeviceAndSnapshotComboBox" icon="jar:file:/Applications/IntelliJ%20IDEA%20CE.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
