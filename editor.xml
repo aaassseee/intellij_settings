@@ -27,5 +27,10 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="7fff" />
     </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\btodo\b.*\(blocking\).*">
+      <option name="FOREGROUND" value="9b9b9b" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="9b9b9b" />
+    </pattern>
   </component>
 </application>
