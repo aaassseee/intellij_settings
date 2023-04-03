@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ML5RRUPDLM" />
+          </Key>
+        </key>
+        <name value="rockchip rk3288" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-7217a74a38236361-tcooGe._adb-tls-connect._tcp." />
           </Key>
@@ -65,17 +76,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="ML5RRUPDLM" />
-          </Key>
-        </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
