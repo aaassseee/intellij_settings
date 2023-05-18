@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="Y33ND6861C" />
+          </Key>
+        </key>
+        <name value="rockchip rk3288" />
+        <target value="Android 4.4" />
+        <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZSWOMYWM1W" />
+          </Key>
+        </key>
+        <name value="rockchip rk3288" />
+        <target value="Android 4.4" />
+        <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9889d546424d42305a" />
           </Key>
         </key>
@@ -22,17 +44,6 @@
         <name value="rockchip rk3288" />
         <target value="Android 7.1.1" />
         <api value="androidversion:25:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="Y33ND6861C" />
-          </Key>
-        </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 4.4" />
-        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -88,17 +99,6 @@
         <name value="Xiaomi Redmi Note 4" />
         <target value="Android 7.0" />
         <api value="androidversion:24:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="ZSWOMYWM1W" />
-          </Key>
-        </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 4.4" />
-        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
