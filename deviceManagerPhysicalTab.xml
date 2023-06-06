@@ -5,26 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="0fc341110604" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="ZSWOMYWM1W" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="0f6ab9f6" />
           </Key>
         </key>
@@ -42,6 +22,27 @@
         <name value="rockchip rk3288" />
         <target value="Android 4.4" />
         <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZSWOMYWM1W" />
+          </Key>
+        </key>
+        <name value="rockchip rk3288" />
+        <target value="Android 4.4" />
+        <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0fc341110604" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
