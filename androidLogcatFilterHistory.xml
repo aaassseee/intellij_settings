@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="com.thegulu.merchant" />
     <option name="nonFavorites">
       <list>
+        <option value="com.thegulu.merchant" />
         <option value="VPON" />
       </list>
     </option>
