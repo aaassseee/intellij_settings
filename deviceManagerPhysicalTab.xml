@@ -16,23 +16,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="GBB0220911001179" />
-          </Key>
-        </key>
-        <name value="HUAWEI NOH-NX9" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="Y33ND6861C" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
         <target value="Android 4.4" />
         <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GBB0220911001179" />
+          </Key>
+        </key>
+        <name value="HUAWEI NOH-NX9" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
