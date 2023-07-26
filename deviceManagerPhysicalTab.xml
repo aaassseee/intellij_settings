@@ -16,6 +16,16 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="0f6ab9f6" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Y33ND6861C" />
           </Key>
         </key>
@@ -43,17 +53,6 @@
         <name value="HUAWEI NOH-NX9" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0f6ab9f6" />
-          </Key>
-        </key>
-        <name value="ONEPLUS A6003" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
