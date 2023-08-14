@@ -203,8 +203,9 @@
             <value value="adb-ND4505PI2327F0004-ssPAaV._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="neostra I23D01" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
