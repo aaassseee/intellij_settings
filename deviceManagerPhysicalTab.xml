@@ -41,7 +41,7 @@
             <value value="GBB0220911001179" />
           </Key>
         </key>
-        <name value="HUAWEI NOH-NX9" />
+        <name value="Device" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
