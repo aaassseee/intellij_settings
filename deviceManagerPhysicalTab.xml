@@ -41,7 +41,7 @@
             <value value="GBB0220911001179" />
           </Key>
         </key>
-        <name value="Device" />
+        <name value="HUAWEI NOH-NX9" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
@@ -54,7 +54,7 @@
         </key>
         <name value="ONEPLUS A6003" />
         <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <api value="androidversion:30:null:5:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
