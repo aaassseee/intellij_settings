@@ -83,7 +83,7 @@
             <value value="9889d546424d42305a" />
           </Key>
         </key>
-        <name value="samsung SM-G9500" />
+        <name value="Device" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
