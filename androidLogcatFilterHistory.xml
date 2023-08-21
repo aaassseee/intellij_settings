@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.thegulu.merchant" />
         <option value="package:mine" />
         <option value="package:com.thegulu.merchant.dev " />
-        <option value="package:com.thegulu.merchant" />
         <option value="package:com.thegulu.merchant_plugin_android" />
         <option value="com.thegulu.merchant" />
         <option value="com.foodgulu" />
