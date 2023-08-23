@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="ZSWOMYWM1W" />
+            <value value="Y33ND6861C" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
@@ -16,12 +16,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="Y33ND6861C" />
+            <value value="ZSWOMYWM1W" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
         <target value="Android 4.4" />
         <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-ND4505PI2327F0004-ssPAaV._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="neostra I23D01" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -195,17 +206,6 @@
         <name value="rockchip rk3288" />
         <target value="Android 4.4" />
         <api value="androidversion:19:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-ND4505PI2327F0004-ssPAaV._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="neostra I23D01" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:3:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
