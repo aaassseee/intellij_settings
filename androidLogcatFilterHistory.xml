@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.thegulu.merchant.dev  level:ERROR" />
+    <option name="mostRecentlyUsed" value="package:com.thegulu.merchant.dev level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.thegulu.merchant.dev level:error " />
         <option value="package:com.thegulu.merchant.dev  level:ERROR" />
         <option value="package:com.thegulu.merchant.dev " />
         <option value="package:com.thegulu.merchant" />
