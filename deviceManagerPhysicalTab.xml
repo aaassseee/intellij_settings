@@ -49,43 +49,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="ND4505PI2327F0004" />
-          </Key>
-        </key>
-        <name value="neostra I23D01" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:3:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="GBB0220911001179" />
           </Key>
         </key>
         <name value="HUAWEI NOH-NX9" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="(no serial number)" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0fc341110604" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -102,23 +71,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="ML5RRUPDLM" />
+            <value value="MLV0221B20001570" />
           </Key>
         </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="12345678" />
-          </Key>
-        </key>
-        <name value="xgd N3" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
+        <name value="HUAWEI JAD-LX9" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -130,82 +88,6 @@
         <name value="rockchip rk3568_r" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="MLV0221B20001570" />
-          </Key>
-        </key>
-        <name value="HUAWEI JAD-LX9" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5966cce50604" />
-          </Key>
-        </key>
-        <name value="Xiaomi Redmi Note 4" />
-        <target value="Android 7.0" />
-        <api value="androidversion:24:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="393QPPY6UC" />
-          </Key>
-        </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 4.4" />
-        <api value="androidversion:19:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a5f172edbad82ed1" />
-          </Key>
-        </key>
-        <name value="rockchip rk3568_r" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="ef8d8b63" />
-          </Key>
-        </key>
-        <name value="OnePlus IN2020" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R5F2LXJ1SF" />
-          </Key>
-        </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 4.4" />
-        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
