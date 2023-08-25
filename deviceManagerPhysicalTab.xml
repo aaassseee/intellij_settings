@@ -27,23 +27,45 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="0f6ab9f6" />
-          </Key>
-        </key>
-        <name value="ONEPLUS A6003" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:5:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="Y33ND6861C" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
         <target value="Android 4.4" />
         <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-NTF1N11G1306D0015-7dgJ29._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="neostra I22T01" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-NMS1X11E1245D0033-QPHDUF._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="iMin Swift 1" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0f6ab9f6" />
+          </Key>
+        </key>
+        <name value="ONEPLUS A6003" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:5:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
