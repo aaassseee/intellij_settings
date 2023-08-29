@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-ND4505PI2327F0004-ssPAaV._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="neostra I23D01" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="ZSWOMYWM1W" />
           </Key>
@@ -26,13 +37,13 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-ND4505PI2327F0004-ssPAaV._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="9889d546424d42305a" />
           </Key>
         </key>
-        <name value="neostra I23D01" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:3:true" />
+        <name value="samsung SM-G9500" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -77,17 +88,6 @@
         <name value="HUAWEI NOH-NX9" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="9889d546424d42305a" />
-          </Key>
-        </key>
-        <name value="samsung SM-G9500" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
