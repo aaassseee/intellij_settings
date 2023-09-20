@@ -30,9 +30,8 @@
             <value value="5ME2320004300909" />
           </Key>
         </key>
-        <name value="rockchip rk3568_r" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
