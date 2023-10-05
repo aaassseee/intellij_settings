@@ -27,6 +27,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="e728f594fecbae2e" />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="5ME2320004300909" />
           </Key>
         </key>
