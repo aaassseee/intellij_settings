@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="5ME2326006849476" />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="ZSWOMYWM1W" />
           </Key>
         </key>
@@ -173,17 +184,6 @@
           </Key>
         </key>
         <name value="iMin Swift 1" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5ME2326006849476" />
-          </Key>
-        </key>
-        <name value="rockchip rk3568_r" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
