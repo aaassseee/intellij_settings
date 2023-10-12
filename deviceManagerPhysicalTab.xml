@@ -187,6 +187,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="12345678" />
+          </Key>
+        </key>
+        <name value="xgd N3" />
+        <target value="Android 5.1" />
+        <api value="androidversion:22:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
