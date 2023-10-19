@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Flutter" />
-    <option name="defaultScopeName" value="Flutter" />
-    <option name="SEARCH_SCOPE" value="Flutter" />
+    <option name="customScope" value="i18n" />
+    <option name="defaultScopeName" value="i18n" />
+    <option name="SEARCH_SCOPE" value="i18n" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
