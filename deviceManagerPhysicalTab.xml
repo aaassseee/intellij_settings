@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="ZSWOMYWM1W" />
+            <value value="Y33ND6861C" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
@@ -16,7 +16,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="Y33ND6861C" />
+            <value value="5ME2320004300909" />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZSWOMYWM1W" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
@@ -50,17 +61,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="e728f594fecbae2e" />
-          </Key>
-        </key>
-        <name value="rockchip rk3568_r" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5ME2320004300909" />
           </Key>
         </key>
         <name value="rockchip rk3568_r" />
