@@ -15,6 +15,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-5ME2320004300909-WrOV2O._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="rockchip rk3568_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="5ME2320004300909" />
           </Key>
@@ -164,17 +175,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-5ME2320004300909-WrOV2O._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="rockchip rk3568_r" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
