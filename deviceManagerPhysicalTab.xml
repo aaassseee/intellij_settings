@@ -15,8 +15,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-5ME2320004300909-WrOV2O._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="5ME2320004300909" />
           </Key>
         </key>
         <name value="rockchip rk3568_r" />
@@ -26,8 +26,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5ME2320004300909" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-5ME2320004300909-WrOV2O._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="rockchip rk3568_r" />
