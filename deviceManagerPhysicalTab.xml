@@ -220,6 +220,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0fc341110604" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 4" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
