@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="T268225940168" />
+          </Key>
+        </key>
+        <name value="SUNMI T2" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="Y33ND6861C" />
           </Key>
         </key>
@@ -208,17 +219,6 @@
         <name value="rockchip rk3568_r" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="T268225940168" />
-          </Key>
-        </key>
-        <name value="SUNMI T2" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
