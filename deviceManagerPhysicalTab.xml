@@ -5,17 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="T268225940168" />
-          </Key>
-        </key>
-        <name value="SUNMI T2" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="Y33ND6861C" />
           </Key>
         </key>
@@ -33,6 +22,28 @@
         <name value="rockchip rk3568_r" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="X2QU8YFB39" />
+          </Key>
+        </key>
+        <name value="rockchip rk3288" />
+        <target value="Android 4.4" />
+        <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="T268225940168" />
+          </Key>
+        </key>
+        <name value="SUNMI T2" />
+        <target value="Android 7.1.1" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -98,7 +109,7 @@
         </key>
         <name value="ONEPLUS A6003" />
         <target value="Android 11.0" />
-        <api value="androidversion:30:null:8:true" />
+        <api value="androidversion:30:null:9:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -230,17 +241,6 @@
         <name value="Xiaomi Redmi Note 4" />
         <target value="Android 7.0" />
         <api value="androidversion:24:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="X2QU8YFB39" />
-          </Key>
-        </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 4.4" />
-        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
