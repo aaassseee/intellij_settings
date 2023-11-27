@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="X2QU8YFB39" />
+          </Key>
+        </key>
+        <name value="rockchip rk3288" />
+        <target value="Android 4.4" />
+        <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="5ME2320004300909" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="SUNMI V2sNC_EDLA_GL" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="X2QU8YFB39" />
-          </Key>
-        </key>
-        <name value="rockchip rk3288" />
-        <target value="Android 4.4" />
-        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
