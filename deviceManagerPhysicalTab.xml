@@ -264,6 +264,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="5062944d08476887" />
+          </Key>
+        </key>
+        <name value="samsung SM-T530" />
+        <target value="Android 4.4" />
+        <api value="androidversion:19:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
