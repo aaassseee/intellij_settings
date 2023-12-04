@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="Y33ND6861C" />
+            <value value="X2QU8YFB39" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
@@ -16,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="X2QU8YFB39" />
+            <value value="Y33ND6861C" />
           </Key>
         </key>
         <name value="rockchip rk3288" />
@@ -33,6 +33,17 @@
         <name value="rockchip rk3568_r" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="HA1VF8FY" />
+          </Key>
+        </key>
+        <name value="LENOVO TB310XU" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:5:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
