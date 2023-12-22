@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Printer connect" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.foodgulu.dev" />
+        <option value="package:com.foodgulu.dev id:" />
         <option value="Printer connect" />
         <option value="package:com.thegulu.merchant" />
         <option value="package:com.thegulu.merchant " />
